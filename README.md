@@ -1,25 +1,23 @@
 # "HTML Project for Beginners"
 
-✅ [Check out my YouTube Channel with all of my tutorials](https://www.youtube.com/DaveGrayTeachesCode).
+This project has been made to exercise with HTML coding. The webpages were created with the use of HTML and minimal of CSS.
 
-This repository shares the starter code for the [YouTube Tutorial](https://youtu.be/T5PD8ofhiug). 
+1. I have created 3 files: index.html, hours.html and contact.html
 
-**Your Challenge:** Utilize the knowledge you have gained from the [HTML for Beginners](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6OlAwitnFUubtE93DO-l0vu) tutorial series to build a website for The Little Taco Shop. 
+2. In index.html file I have enclosed such information:
+   -> About
+   -> Menu
+   -> have used links to menu and "back to top"
 
-**Directions:**
+3. In hours.html file I have used:
+   -> links to menu and "back to top"
+   -> enclosed working hours
 
-- There are images of the 3 web pages you need to build in the examples folder. Use them as references for what you build.
+4. In contact.html file I have used:
+   -> links to menu and "back to top"
+   -> enclosed contact form with possibility to send text message
+   -> location information with possibility to dial-up the phone number
 
-- You should name your files: index.html, hours.html, and contact.html
+- All images that are located in the img folder, the minimal CSS taht is listed in css/styles.css file and favicon were already created by author of the HTML course - @DaveGrayTeachesCode. Used screenshots of the examples to recreate the webpages index.html, hours.html and contact.html.
 
-- There is minimal CSS already available in css/styles.css. You need to link that file to your HTML files. 
-
-- All images are provided in the img folder.
-
-- If you need to find taco emojis, try [Emojipedia](https://emojipedia.org/taco/). 
-
-- A favicon is already included. You'll need to add it in the head section of each page.
-
-### Academic Honesty
-
-**DO NOT COPY FOR AN ASSIGNMENT** - Avoid plagiargism and adhere to the spirit of this [Academic Honesty Policy](https://www.freecodecamp.org/news/academic-honesty-policy/).
+- Used taco emojis from [Emojipedia](https://emojipedia.org/taco/).
